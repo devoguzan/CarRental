@@ -13,3 +13,5 @@ C:\Users\kurek\OneDrive\Belgeler\GitHub\CarRental\CarRental\DataAccess\obj\Debug
 C:\Users\kurek\OneDrive\Belgeler\GitHub\CarRental\CarRental\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 C:\Users\kurek\OneDrive\Belgeler\GitHub\CarRental\CarRental\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\kurek\OneDrive\Belgeler\GitHub\CarRental\CarRental\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\kurek\OneDrive\Belgeler\GitHub\CarRental\CarRental\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\kurek\OneDrive\Belgeler\GitHub\CarRental\CarRental\DataAccess\bin\Debug\net6.0\Core.pdb
