@@ -4,7 +4,9 @@ using DataAccess.Concrete.InMemory;
 
 CarManager carManager = new CarManager(new EfCarDal());
 
-foreach(var car in carManager.GetCarDetails())
+var result = carManager.GetCarDetails();
+
+foreach(var car in result.Data)
 {
     Console.WriteLine(car.CarName + " " + car.BrandName + " " + car.ColorName);
 }
